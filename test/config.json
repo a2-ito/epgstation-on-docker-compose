@@ -1,0 +1,571 @@
+[
+  {
+    "type": "GR", 
+    "name": "\uff34\uff2f\uff2b\uff39\uff2f\u3000\uff2d\uff38", 
+    "channel": "16"
+  }, 
+  {
+    "type": "GR", 
+    "name": "\u30d5\u30b8\u30c6\u30ec\u30d3", 
+    "channel": "21"
+  }, 
+  {
+    "type": "GR", 
+    "name": "\uff34\uff22\uff33", 
+    "channel": "22"
+  }, 
+  {
+    "type": "GR", 
+    "name": "\u30c6\u30ec\u30d3\u6771\u4eac", 
+    "channel": "23"
+  }, 
+  {
+    "type": "GR", 
+    "name": "\u30c6\u30ec\u30d3\u671d\u65e5", 
+    "channel": "24"
+  }, 
+  {
+    "type": "GR", 
+    "name": "\u65e5\u30c6\u30ec", 
+    "channel": "25"
+  }, 
+  {
+    "type": "GR", 
+    "name": "\uff2e\uff28\uff2b\uff25\u30c6\u30ec\u30fb\u6771\u4eac", 
+    "channel": "26"
+  }, 
+  {
+    "type": "GR", 
+    "name": "\uff2e\uff28\uff2b\u7dcf\u5408\u30fb\u6771\u4eac", 
+    "channel": "27"
+  }, 
+  {
+    "serviceId": 101, 
+    "type": "BS", 
+    "name": "NHK BS1", 
+    "channel": "BS15_0"
+  }, 
+  {
+    "serviceId": 102, 
+    "type": "BS", 
+    "name": "NHK BS1 (Sub)", 
+    "channel": "BS15_0"
+  }, 
+  {
+    "serviceId": 103, 
+    "type": "BS", 
+    "name": "\uff2e\uff28\uff2b\uff22\uff33\u30d7\u30ec\u30df\u30a2\u30e0", 
+    "channel": "BS03_1"
+  }, 
+  {
+    "serviceId": 104, 
+    "type": "BS", 
+    "name": "\uff2e\uff28\uff2b\uff22\uff33\u30d7\u30ec\u30df\u30a2\u30e0", 
+    "channel": "BS03_1"
+  }, 
+  {
+    "serviceId": 141, 
+    "type": "BS", 
+    "name": "\uff22\uff33\u65e5\u30c6\u30ec", 
+    "channel": "BS13_0"
+  }, 
+  {
+    "serviceId": 142, 
+    "type": "BS", 
+    "name": "\uff22\uff33\u65e5\u30c6\u30ec", 
+    "channel": "BS13_0"
+  }, 
+  {
+    "serviceId": 151, 
+    "type": "BS", 
+    "name": "\uff22\uff33\u671d\u65e5\uff11", 
+    "channel": "BS01_0"
+  }, 
+  {
+    "serviceId": 152, 
+    "type": "BS", 
+    "name": "\uff22\uff33\u671d\u65e5\uff12", 
+    "channel": "BS01_0"
+  }, 
+  {
+    "serviceId": 161, 
+    "type": "BS", 
+    "name": "\uff22\uff33\uff0d\uff34\uff22\uff33", 
+    "channel": "BS01_1"
+  }, 
+  {
+    "serviceId": 171, 
+    "type": "BS", 
+    "name": "\uff22\uff33\u30c6\u30ec\u6771", 
+    "channel": "BS01_2"
+  }, 
+  {
+    "serviceId": 181, 
+    "type": "BS", 
+    "name": "\uff22\uff33\u30d5\u30b8\u30fb\uff11\uff18\uff11", 
+    "channel": "BS13_1"
+  }, 
+  {
+    "isDisabled": false, 
+    "serviceId": 191, 
+    "type": "BS", 
+    "name": "\uff37\uff2f\uff37\uff2f\uff37\u30d7\u30e9\u30a4\u30e0", 
+    "channel": "BS03_0"
+  }, 
+  {
+    "isDisabled": false, 
+    "serviceId": 192, 
+    "type": "BS", 
+    "name": "\uff37\uff2f\uff37\uff2f\uff37\u30e9\u30a4\u30d6", 
+    "channel": "BS05_0"
+  }, 
+  {
+    "isDisabled": false, 
+    "serviceId": 193, 
+    "type": "BS", 
+    "name": "\uff37\uff2f\uff37\uff2f\uff37\u30b7\u30cd\u30de", 
+    "channel": "BS05_1"
+  }, 
+  {
+    "serviceId": 200, 
+    "type": "BS", 
+    "name": "\u30b9\u30bf\u30fc\u30fb\u30c1\u30e3\u30f3\u30cd\u30eb1", 
+    "channel": "BS09_1"
+  }, 
+  {
+    "serviceId": 201, 
+    "type": "BS", 
+    "name": "\u30b9\u30bf\u30fc\u30fb\u30c1\u30e3\u30f3\u30cd\u30eb2", 
+    "channel": "BS15_1"
+  }, 
+  {
+    "serviceId": 202, 
+    "type": "BS", 
+    "name": "\u30b9\u30bf\u30fc\u30fb\u30c1\u30e3\u30f3\u30cd\u30eb3", 
+    "channel": "BS15_1"
+  }, 
+  {
+    "serviceId": 211, 
+    "type": "BS", 
+    "name": "\uff22\uff33\uff11\uff11\u30a4\u30ec\u30d6\u30f3", 
+    "channel": "BS09_0"
+  }, 
+  {
+    "serviceId": 222, 
+    "type": "BS", 
+    "name": "TwellV", 
+    "channel": "BS09_2"
+  }, 
+  {
+    "serviceId": 231, 
+    "type": "BS", 
+    "name": "\u653e\u9001\u5927\u5b66 BS1", 
+    "channel": "BS11_1"
+  }, 
+  {
+    "serviceId": 232, 
+    "type": "BS", 
+    "name": "\u653e\u9001\u5927\u5b66 BS2", 
+    "channel": "BS11_1"
+  }, 
+  {
+    "serviceId": 234, 
+    "type": "BS", 
+    "name": "\u30b0\u30ea\u30fc\u30f3\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "channel": "BS21_2"
+  }, 
+  {
+    "serviceId": 236, 
+    "type": "BS", 
+    "name": "BS\u30a2\u30cb\u30de\u30c3\u30af\u30b9", 
+    "channel": "BS13_2"
+  }, 
+  {
+    "serviceId": 241, 
+    "type": "BS", 
+    "name": "\uff22\uff33\u30b9\u30ab\u30d1\u30fc\uff01", 
+    "channel": "BS11_1"
+  }, 
+  {
+    "serviceId": 242, 
+    "type": "BS", 
+    "name": "J SPORTS 1", 
+    "channel": "BS19_1"
+  }, 
+  {
+    "serviceId": 243, 
+    "type": "BS", 
+    "name": "J SPORTS 2", 
+    "channel": "BS19_2"
+  }, 
+  {
+    "serviceId": 244, 
+    "type": "BS", 
+    "name": "J SPORTS 3", 
+    "channel": "BS19_3"
+  }, 
+  {
+    "serviceId": 245, 
+    "type": "BS", 
+    "name": "J SPORTS 4", 
+    "channel": "BS19_0"
+  }, 
+  {
+    "serviceId": 251, 
+    "type": "BS", 
+    "name": "BS\u91e3\u308a\u30d3\u30b8\u30e7\u30f3", 
+    "channel": "BS11_2"
+  }, 
+  {
+    "serviceId": 252, 
+    "type": "BS", 
+    "name": "\u30b7\u30cd\u30d5\u30a3\u30ebWOWOW", 
+    "channel": "BS21_0"
+  }, 
+  {
+    "serviceId": 255, 
+    "type": "BS", 
+    "name": "\u65e5\u672c\u6620\u753b\u5c02\u9580\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "channel": "BS21_1"
+  }, 
+  {
+    "serviceId": 256, 
+    "type": "BS", 
+    "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "channel": "BS23_0"
+  }, 
+  {
+    "serviceId": 218, 
+    "type": "CS", 
+    "name": "\u6771\u6620\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "channel": "CS8"
+  }, 
+  {
+    "serviceId": 219, 
+    "type": "CS", 
+    "name": "\u885b\u661f\u5287\u5834", 
+    "channel": "CS10"
+  }, 
+  {
+    "serviceId": 223, 
+    "type": "CS", 
+    "name": "\u6620\u753bch\u30fbNECO", 
+    "channel": "CS24"
+  }, 
+  {
+    "serviceId": 227, 
+    "type": "CS", 
+    "name": "\u30b6\u30fb\u30b7\u30cd\u30de", 
+    "channel": "CS14"
+  }, 
+  {
+    "serviceId": 240, 
+    "type": "CS", 
+    "name": "\u30e0\u30fc\u30d3\u30fc\u30d7\u30e9\u30b9", 
+    "channel": "CS18"
+  }, 
+  {
+    "serviceId": 250, 
+    "type": "CS", 
+    "name": "\u30b9\u30ab\u30a4A", 
+    "channel": "CS4"
+  }, 
+  {
+    "serviceId": 254, 
+    "type": "CS", 
+    "name": "GAORA", 
+    "channel": "CS12"
+  }, 
+  {
+    "serviceId": 257, 
+    "type": "CS", 
+    "name": "\u65e5\u30c6\u30ecG+", 
+    "channel": "CS24"
+  }, 
+  {
+    "serviceId": 262, 
+    "type": "CS", 
+    "name": "\u30b4\u30eb\u30d5\u30cd\u30c3\u30c8\u30ef\u30fc\u30af", 
+    "channel": "CS18"
+  }, 
+  {
+    "serviceId": 290, 
+    "type": "CS", 
+    "name": "SKY STAGE", 
+    "channel": "CS16"
+  }, 
+  {
+    "serviceId": 292, 
+    "type": "CS", 
+    "name": "\u6642\u4ee3\u5287\u5c02\u9580ch", 
+    "channel": "CS4"
+  }, 
+  {
+    "serviceId": 293, 
+    "type": "CS", 
+    "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u5287\u5834", 
+    "channel": "CS14"
+  }, 
+  {
+    "serviceId": 294, 
+    "type": "CS", 
+    "name": "\u30db\u30fc\u30e0\u30c9\u30e9\u30dech", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 295, 
+    "type": "CS", 
+    "name": "MONDO TV", 
+    "channel": "CS24"
+  }, 
+  {
+    "serviceId": 296, 
+    "type": "CS", 
+    "name": "TBS\u30c1\u30e3\u30f3\u30cd\u30eb1", 
+    "channel": "CS2"
+  }, 
+  {
+    "serviceId": 297, 
+    "type": "CS", 
+    "name": "TBS\u30c1\u30e3\u30f3\u30cd\u30eb2", 
+    "channel": "CS22"
+  }, 
+  {
+    "isDisabled": true, 
+    "serviceId": 298, 
+    "type": "CS", 
+    "name": "\u30c6\u30ec\u671d\u30c1\u30e3\u30f3\u30cd\u30eb1", 
+    "channel": "CS2"
+  }, 
+  {
+    "isDisabled": false, 
+    "serviceId": 299, 
+    "type": "CS", 
+    "name": "\u30c6\u30ec\u671d\u30c1\u30e3\u30f3\u30cd\u30eb2", 
+    "channel": "CS2"
+  }, 
+  {
+    "isDisabled": false, 
+    "serviceId": 300, 
+    "type": "CS", 
+    "name": "\u65e5\u30c6\u30ec\u30d7\u30e9\u30b9", 
+    "channel": "CS24"
+  }, 
+  {
+    "isDisabled": false, 
+    "serviceId": 333, 
+    "type": "CS", 
+    "name": "AT-X", 
+    "channel": "CS16"
+  }, 
+  {
+    "serviceId": 301, 
+    "type": "CS", 
+    "name": "\u30a8\u30f3\u30bf\u30e1\uff5e\u30c6\u30ec", 
+    "channel": "CS4"
+  }, 
+  {
+    "serviceId": 305, 
+    "type": "CS", 
+    "name": "\u30c1\u30e3\u30f3\u30cd\u30eb\u9280\u6cb3", 
+    "channel": "CS18"
+  }, 
+  {
+    "serviceId": 307, 
+    "type": "CS", 
+    "name": "\u30d5\u30b8\u30c6\u30ec\u30d3ONE", 
+    "channel": "CS20"
+  }, 
+  {
+    "serviceId": 308, 
+    "type": "CS", 
+    "name": "\u30d5\u30b8\u30c6\u30ec\u30d3TWO", 
+    "channel": "CS20"
+  }, 
+  {
+    "serviceId": 309, 
+    "type": "CS", 
+    "name": "\u30d5\u30b8\u30c6\u30ec\u30d3NEXT", 
+    "channel": "CS20"
+  }, 
+  {
+    "serviceId": 310, 
+    "type": "CS", 
+    "name": "\u30b9\u30fc\u30d1\u30fc\uff01\u30c9\u30e9\u30deTV", 
+    "channel": "CS14"
+  }, 
+  {
+    "serviceId": 311, 
+    "type": "CS", 
+    "name": "AXN\u6d77\u5916\u30c9\u30e9\u30de", 
+    "channel": "CS16"
+  }, 
+  {
+    "serviceId": 312, 
+    "type": "CS", 
+    "name": "FOX", 
+    "channel": "CS22"
+  }, 
+  {
+    "serviceId": 314, 
+    "type": "CS", 
+    "name": "\u5973\u6027ch\uff0fLaLa", 
+    "channel": "CS18"
+  }, 
+  {
+    "serviceId": 316, 
+    "type": "CS", 
+    "name": "AXN\u30df\u30b9\u30c6\u30ea\u30fc", 
+    "channel": "CS16"
+  }, 
+  {
+    "serviceId": 321, 
+    "type": "CS", 
+    "name": "\u30b9\u30da\u30b7\u30e3\u30d7\u30e9\u30b9", 
+    "channel": "CS16"
+  }, 
+  {
+    "serviceId": 322, 
+    "type": "CS", 
+    "name": "\u30b9\u30da\u30fc\u30b9\u30b7\u30e3\u30ef\u30fcTV", 
+    "channel": "CS20"
+  }, 
+  {
+    "serviceId": 323, 
+    "type": "CS", 
+    "name": "MTV", 
+    "channel": "CS4"
+  }, 
+  {
+    "serviceId": 324, 
+    "type": "CS", 
+    "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30a8\u30a2", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 325, 
+    "type": "CS", 
+    "name": "\u30a8\u30e0\u30aa\u30f3\uff01", 
+    "channel": "CS12"
+  }, 
+  {
+    "serviceId": 329, 
+    "type": "CS", 
+    "name": "\u6b4c\u8b21\u30dd\u30c3\u30d7\u30b9ch", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 330, 
+    "type": "CS", 
+    "name": "\u30ad\u30c3\u30ba\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3", 
+    "channel": "CS12"
+  }, 
+  {
+    "serviceId": 331, 
+    "type": "CS", 
+    "name": "\u30ab\u30fc\u30c8\u30a5\u30fc\u30f3", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 333, 
+    "type": "CS", 
+    "name": "AT-X", 
+    "channel": "CS16"
+  }, 
+  {
+    "serviceId": 339, 
+    "type": "CS", 
+    "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30b8\u30e5\u30cb\u30a2", 
+    "channel": "CS2"
+  }, 
+  {
+    "serviceId": 340, 
+    "type": "CS", 
+    "name": "\u30c7\u30a3\u30b9\u30ab\u30d0\u30ea\u30fc\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 341, 
+    "type": "CS", 
+    "name": "\u30a2\u30cb\u30de\u30eb\u30d7\u30e9\u30cd\u30c3\u30c8", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 342, 
+    "type": "CS", 
+    "name": "\u30d2\u30b9\u30c8\u30ea\u30fc\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "channel": "CS14"
+  }, 
+  {
+    "serviceId": 343, 
+    "type": "CS", 
+    "name": "\u30ca\u30b7\u30e7\u30ca\u30eb\u30b8\u30aa\u30b0\u30e9\u30d5\u30a3\u30c3\u30af", 
+    "channel": "CS12"
+  }, 
+  {
+    "serviceId": 349, 
+    "type": "CS", 
+    "name": "\u65e5\u30c6\u30ecNEWS24", 
+    "channel": "CS8"
+  }, 
+  {
+    "serviceId": 351, 
+    "type": "CS", 
+    "name": "TBS NEWS", 
+    "channel": "CS22"
+  }, 
+  {
+    "serviceId": 353, 
+    "type": "CS", 
+    "name": "BBC\u30ef\u30fc\u30eb\u30c9\u30cb\u30e5\u30fc\u30b9", 
+    "channel": "CS16"
+  }, 
+  {
+    "serviceId": 354, 
+    "type": "CS", 
+    "name": "CNNj", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 363, 
+    "type": "CS", 
+    "name": "\u56f2\u7881\u30fb\u5c06\u68cb\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "channel": "CS6"
+  }, 
+  {
+    "serviceId": 800, 
+    "type": "CS", 
+    "name": "\u30b9\u30dd\u30fc\u30c4\u30e9\u30a4\u30d6+", 
+    "channel": "CS10"
+  }, 
+  {
+    "serviceId": 801, 
+    "type": "CS", 
+    "name": "\u30b9\u30ab\u30c1\u30e3\u30f31", 
+    "channel": "CS10"
+  }, 
+  {
+    "satellite": "JCSAT3A", 
+    "serviceId": 33353, 
+    "name": "BS SPTV", 
+    "isDisabled": true, 
+    "type": "SKY", 
+    "channel": "CH585"
+  }, 
+  {
+    "satellite": "JCSAT3A", 
+    "serviceId": 33435, 
+    "name": "AT-X HD", 
+    "isDisabled": true, 
+    "type": "SKY", 
+    "channel": "ATXHD"
+  }, 
+  {
+    "satellite": "JCSAT4A", 
+    "serviceId": 33418, 
+    "name": "AXN HD", 
+    "isDisabled": true, 
+    "type": "SKY", 
+    "channel": "AXNHD"
+  }
+]

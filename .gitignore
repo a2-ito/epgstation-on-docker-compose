@@ -1,0 +1,13 @@
+*.swp
+*.log
+*.log.*
+*.log-*
+.DS_Store
+recorded_tvdata
+/mirakurun/data/*
+/epgstation/thumbnail/*.jpg
+/epgstation/data/streamfiles/*.ts
+/epgstation/data/streamfiles/*.m3u8
+/epgstation/data/*.json
+libpcsclite.so.1.0.0
+test/*.ts
